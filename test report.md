@@ -6,16 +6,18 @@
 На тестирование затрачено: 10 минут
 
 В результате тестирования выявлены следующие дефекты: 
-* (https://github.com/Orazalina/java1.1/issues/1)
-* (https://github.com/Orazalina/java1.1/issues/2)
-* (https://github.com/Orazalina/java1.1/issues/3)
+
+[Приложение KeyValidator при запуске невалидного ключа выдает положительный результат.](https://github.com/Orazalina/java1.1/issues/4)
+
+[Приложение KeyValidator при запуске невалидного ключа выдает положительный результат.](https://github.com/Orazalina/java1.1/issues/5)
 
 ## Описание процесса тестирования
 В процессе тестирования использовались следующие артефакты:
-* Руководство использования
+* [Руководство использования](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 В качестве тестовых данных использовались данные:
-* Ключи для проверки
+* [Ключи для проверки](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+
 
 Тестирование производилось в следующем окружении:
 * Windows 10, 64 разр.
